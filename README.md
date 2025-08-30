@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 This project is a simple yet effective web application demonstrating face recognition login integrated with GPS location tracking and brute force/unusual login pattern detection. The frontend uses React and the backend uses Node.js with Express.
 
 The face recognition authentication is intended to be powered by FACEIO, a secure facial recognition SDK/service. A mock placeholder is included for testing, which you can replace with real FACEIO calls once you have your public key.
