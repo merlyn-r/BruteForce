@@ -15,18 +15,18 @@ Detection of unusual login attempts based on GPS location differences
 
 Simple status updates on the frontend for user feedback
 
-Setup Instructions:
-Backend
+Setup Instructions:  
+Backend  
 Navigate to the backend directory:
 
-cd backend
-node server.js
+cd backend  
+node server.js  
 The backend will listen on port 3001 by default.
 
-Frontend
+Frontend  
 Navigate to the frontend directory.
 
-cd frontend
-npm install
-npm run dev
+cd frontend  
+npm install  
+npm run dev  
 Open your browser to the URL shown (http://localhost:5173).
