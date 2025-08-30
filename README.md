@@ -15,7 +15,7 @@ Detection of unusual login attempts based on GPS location differences
 
 Simple status updates on the frontend for user feedback
 
-Setup Instructions
+Setup Instructions:
 Backend
 Navigate to the backend directory:
 
